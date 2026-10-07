@@ -1,0 +1,28 @@
+# Ollama data
+ollama_data/
+
+# Environment variables
+.env
+.env.*
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Build files
+dist/
+build/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+package-lock.json
+package.json
